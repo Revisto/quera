@@ -2,7 +2,7 @@
 ![](https://static.quera.ir/images/logo/logo2.svg)
 
 
-Hi, these are my answers to the questions that I solved on [Quera](Quera.ir).
+Hi, these are my answers to the questions that I solved on [Quera](https://Quera.ir).
 
 Nothing more, there is a contests directory and inside it there are many directories with the code of that contest.
 
